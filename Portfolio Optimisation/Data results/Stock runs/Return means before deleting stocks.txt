@@ -1,0 +1,6 @@
+   weekly.returns  weekly.returns.1  weekly.returns.2  weekly.returns.3  weekly.returns.4  weekly.returns.5  weekly.returns.6  weekly.returns.7  weekly.returns.8  weekly.returns.9 
+    -0.0005243863      0.0027381510      0.0004626212      0.0011147735      0.0035806275      0.0055168432      0.0143870242      0.0027791522     -0.0047733044      0.0058731909 
+weekly.returns.10 weekly.returns.11 weekly.returns.12 weekly.returns.13 weekly.returns.14 weekly.returns.15 weekly.returns.16 weekly.returns.17 weekly.returns.18 weekly.returns.19 
+    -0.0051579050     -0.0050962972      0.0048106928     -0.0045893442     -0.0016016832     -0.0010961917     -0.0080894098      0.0041401254      0.0121842338      0.0063446332 
+weekly.returns.20 weekly.returns.21 
+     0.0202232358      0.0104333881 

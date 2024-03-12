@@ -1,0 +1,7 @@
+Garry James McBride
+MSc Advanced Computer Science 
+Assignment 2 - Evolutionary Computation for Finance
+
+I have wrote my code in In - R3.5.2
+
+Integrated development environment (IDE) - R Studio
